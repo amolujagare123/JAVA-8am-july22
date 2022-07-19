@@ -1,3 +1,5 @@
+package JavaBasics;
+
 public class AndDemo {
 
     public static void main(String[] args) {

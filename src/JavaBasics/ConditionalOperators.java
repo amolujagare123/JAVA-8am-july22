@@ -1,3 +1,5 @@
+package JavaBasics;
+
 public class ConditionalOperators {
 
     public static void main(String[] args) {

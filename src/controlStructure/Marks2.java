@@ -1,4 +1,6 @@
-public class Marks {
+package controlStructure;
+
+public class Marks2 {
 
     public static void main(String[] args) {
 
@@ -10,16 +12,22 @@ public class Marks {
         else if(marks>=40 && marks<50)
             System.out.println("Pass");
 
-        else if(marks>=50 && marks<60)
+        else if(marks>=50 && marks<60) {
+            System.out.println("Pass");
 
             System.out.println("Second Class");
+        }
 
 
-        else if(marks>=60 && marks<70)
+        else if(marks>=60 && marks<70) {
+            System.out.println("Pass");
             System.out.println("First class");
+        }
 
-        else if(marks>=70 && marks<=100)
+        else if(marks>=70 && marks<=100) {
+            System.out.println("Pass");
             System.out.println("Distinction");
+        }
 
       /*  else
             System.out.println("Distinction");*/

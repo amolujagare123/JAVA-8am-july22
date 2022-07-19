@@ -1,3 +1,5 @@
+package JavaBasics;
+
 public class DataTypeDemos {
 
     public static void main(String[] args) {
