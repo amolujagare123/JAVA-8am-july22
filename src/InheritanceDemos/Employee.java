@@ -1,6 +1,6 @@
 package InheritanceDemos;
 
-public class Employee {
+public /*final*/ class Employee {
 
     int salary = 35000;
 

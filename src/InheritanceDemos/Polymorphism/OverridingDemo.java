@@ -2,7 +2,7 @@ package InheritanceDemos.Polymorphism;
 
 public class OverridingDemo {
 
-    void sampleMethod()
+     void sampleMethod()
     {
         System.out.println("Sample method Parent");
     }
