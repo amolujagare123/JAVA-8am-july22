@@ -33,6 +33,7 @@ public class Student {
         s3.rno = 3;
         s3.name="Sheetal";
 
+        Student.college = "Pune college";
 
 
         s1.display();
